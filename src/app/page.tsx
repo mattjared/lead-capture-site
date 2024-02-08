@@ -104,7 +104,7 @@ export default function Component() {
               />
               <div className="space-y-2">
                 <blockquote className="text-lg font-bold leading-6">
-                  The personalized emails make me feel special. I'm more likely to click through!
+                  The personalized emails make me feel special. I&apps;m more likely to click through!
                 </blockquote>
                 <cite className="font-semibold">- Carol S.</cite>
               </div>
