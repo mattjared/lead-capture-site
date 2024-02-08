@@ -20,7 +20,7 @@ export default function Component() {
                 </h2>
                 <p className="max-w-[600px] text-gray-500 dark:text-gray-400">
                   Personalization is the key to unlocking more conversions. Let your visitors know you understand their
-                  needs with targeted messaging.
+                  needs with targeted messaging. We Chicago-an!
                 </p>
               </div>
               <div className="w-full max-w-sm space-y-2">
