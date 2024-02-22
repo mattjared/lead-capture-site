@@ -16,7 +16,7 @@ export default function Component() {
             <div className="flex flex-col justify-center space-y-4">
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">
-                  HEY convert more leads with the power of personalization!!!!!
+                  Convert more leads with the power of personalization!!!!!
                 </h2>
                 <p className="max-w-[600px] text-gray-500 dark:text-gray-400">
                   Personalization is the key to unlocking more conversions. Let your visitors know you understand their
